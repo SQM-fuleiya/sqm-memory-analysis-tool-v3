@@ -18,4 +18,5 @@
 
 python main.py
 如需手动可以直接执行 手动分析.bat 
+如需执行图形界面，请执行 快捷vol3.bat
 
